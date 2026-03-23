@@ -1,5 +1,3 @@
-# Ibrahim Shore
-
 I architect systems and still ship the code. That's a deliberate choice, not an accident of time management.
 
 After 11 years across insurance, finance, and media, I've developed a strong point of view on how engineering should work — decisions made close to the metal, abstractions that earn their complexity, and systems built to be understood by the next person who touches them. The best architecture I've written has always come from understanding the domain deeply, not just the stack.
