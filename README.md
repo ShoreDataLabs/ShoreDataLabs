@@ -1,51 +1,32 @@
-# 🚀 About Me
+# Ibrahim Shore
 
-I'm a **Senior Python Developer** with **6+ years** of experience building **scalable microservices**, **RESTful APIs** and **data pipelines** that drive real-time analytics and AI-powered solutions. I love architecting robust systems with **FastAPI**, **Flask**, **AWS**, mentoring teams and championing TDD. Outside of code, I'm ⚽ playing football, 🚴 cycling, or ⛷️ skiing down slopes.
+I architect systems and still ship the code. That's a deliberate choice, not an accident of time management.
 
-* 🐍 **Core Expertise**: Python (FastAPI, Flask, SQLAlchemy, Pydantic), RESTful APIs, Microservices, PostgreSQL, MySQL, PostGIS
-* ☁️ **Cloud & DevOps**: AWS (Lambda, ECS, S3, EC2), GCP (BigQuery, Compute Engine, Cloud Storage), Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions)
-* 📊 **Data & Analytics**: PySpark, Pandas, Snowflake, Tableau, ETL Pipelines
-* 🌱 **Currently Exploring**: Serverless architectures and advanced TDD with pytest
-* 📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/ibrahim-shore/)
+After 11 years across insurance, finance, and media, I've developed a strong point of view on how engineering should work — decisions made close to the metal, abstractions that earn their complexity, and systems built to be understood by the next person who touches them. The best architecture I've written has always come from understanding the domain deeply, not just the stack.
+
+If you've come here from LinkedIn, the career story lives there. This is where the technical thinking shows up — the repos, the patterns, the problems I find genuinely interesting.
 
 ---
 
-## 🛠️ My Tech Stack
+Right now that means data engineering and systems integration at scale, change detection pipelines, and the unsexy-but-important work of making enterprise systems talk to each other reliably. On the software side I'm drawn to clean API design and backend architecture where performance and maintainability have to coexist. I'm also still pulled toward statistical modelling and ML problems — particularly anywhere attribution, measurement, or fraud detection are being approached naively. Outside of Python, I'm currently picking up TypeScript, because understanding the full stack makes you a better architect.
 
-*Python, FastAPI, Flask, AWS, Docker, Kubernetes, PostgreSQL, Snowflake, GitHub Actions, and more!*
-
----
-
-## 🌟 Highlighted Projects
-
-### **Real-Time Analytics Platform** @ Vaynermedia
-Developed a **FastAPI microservices backend** with **Docker**, **PostgreSQL** and **Redis**, cutting processing times by 40% for customer analytics. Integrated **Snowflake** for automated financial reporting.
-
-- 🛠️ **Tech**: FastAPI, AWS ECS, SQLAlchemy
-
-### **Geospatial Supply Chain Optimiser** @ Procurato
-Processed geospatial data with **PostGIS** and **BigQuery**, optimising logistics for banking and insurance clients. Built **PySpark ETL pipelines** for real-time insights.
-
-- 🛠️ **Tech**: PostgreSQL, GCP, PySpark
-
-### **Scalable Insurance Backend** @ Open GI
-Architected **Flask microservices** with **Redis** and **RabbitMQ**, boosting performance for UK insurers & brokers. Enhanced scalability with **PySpark** for large datasets.
-
-- 🛠️ **Tech**: Flask, Redis, PySpark
+I write Python daily. I care about clean interfaces, observable systems, and tests that actually catch bugs.
 
 ---
 
-## 🌄 Outside of Code
+## 🛠️ Stack
 
-When I'm not coding, I'm:
-* ⚽ Scoring goals on the football pitch
-* 🚴 Tackling new cycling trails
-* ⛷️ Carving down snowy slopes
-* 📖 Lost in a sci-fi novel
-* 🎮 Strategising in airsoft matches
+`Python` `FastAPI` `Airflow` `Snowflake` `PostgreSQL` `AWS` `Docker` `PySpark` `DBT` `Redis` `SQLAlchemy` `TypeScript`
 
 ---
 
-## 🤝 Let's Collaborate!
+## 🔗 Find me
 
-💬 Got a cool project or idea? Reach out on [LinkedIn](https://www.linkedin.com/in/ibrahim-shore/). Let's build something awesome together!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ibrahim--shore-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ibrahim-shore/)
+📍 Milton Keynes
+
+---
+
+## 🌄 Outside of code
+
+⚽ Football &nbsp;·&nbsp; 🚴 Cycling &nbsp;·&nbsp; 📖 Sci-fi
